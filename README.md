@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Bastidas-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manuel-felipe-bastidas-díaz-/)
 [![Email](https://img.shields.io/badge/Email-Manuelfebastidas@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:Manuelfebastidas@gmail.com)
-![Location](https://img.shields.io/badge/📍_Pasto,_Nariño-Colombia-green?style=flat-square)
+![Location](https://img.shields.io/badge/📍Colombia-green?style=flat-square)
 
 </div>
 
