@@ -53,7 +53,7 @@ Mechatronics Engineer with hands-on experience across the full automation stack 
 
 ---
 
-
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -64,7 +64,7 @@ Mechatronics Engineer with hands-on experience across the full automation stack 
 </div>
 
 ---
-
+-->
 
 <div align="center">
 <i>Open to roles in automation engineering, IoT systems, robotics, and industrial DevOps.</i>
