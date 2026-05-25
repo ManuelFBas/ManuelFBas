@@ -31,7 +31,7 @@ Mechatronics Engineer with hands-on experience across the full automation stack 
 | 🏭 [Carbon Residual Monitor](#) | 24/7 industrial water treatment tracking | ESP32, Modbus RS485, LoRa, Cloud | 🔄 Active |
 | 🌊 [IoT Water Quality Monitor](#) | 20-station municipal water monitoring network | ESP32, LoRa, Python, SQL, AWS | ✅ Complete |
 | ♻️ [Waste Sorting System](https://github.com/ManuelFBas/Designed-scale-prototype-for-shredding-and-waste-selection-system) | Scale prototype for community composting plant | Mechanical + PLC + sensor integration | ✅ Complete|
-| 🤖 [6dof-robot-kinematics](https://github.com/ManuelFBas/6dof-robot-kinematics) | 6 degrees of freedom Robot kinematics | MATLAB | ✅ Complete |
+| 🤖 [6dof-robot-kinematics](https://github.com/ManuelFBas/6dof-robot-kinematics) | 6 degrees of freedom Robot kinematics | MATLAB, Mechanical, control, robotic | ✅ Complete |
 ---
 
 ## 🛠️ Tech Stack
